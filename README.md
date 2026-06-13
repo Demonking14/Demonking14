@@ -8,7 +8,6 @@
   <a href="mailto:adi.jha1424@gmail.com">📧 adi.jha1424@gmail.com</a> ·
   <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> ·
   <a href="https://github.com/YOUR_HANDLE">GitHub</a> ·
-  📞 +91 9311036107
 </p>
 
 ---
